@@ -1,5 +1,5 @@
 # Brahman and Angus Assembly Scripts
-Custom scripts to analyse scaffolds and validate genome assemblies of Angus and Brahman cattles. The novel contig assembly approach that generated haplotype-resolved contigs was published elsewhere by [Koren et al (2018](https://www.nature.com/articles/nbt.4277) and this step will not be detailed here. The work described here followed up from the contigs assemblies to generate haplotype-resolved chromosome-level scaffolds. It also contains some scripts used for specific analyses that involved SNPs, indels, and various types of structural variants (SVs).
+Custom scripts to analyse scaffolds and validate genome assemblies of Angus and Brahman cattles. The novel contig assembly approach that generated haplotype-resolved contigs was published elsewhere by [Koren et al (2018)](https://www.nature.com/articles/nbt.4277) and this step will not be detailed here. The work described here followed up from the contigs assemblies to generate haplotype-resolved chromosome-level scaffolds. It also contains some scripts used for specific analyses that involved SNPs, indels, and various types of structural variants (SVs).
 
 ## Table of contents
 All scripts are given in the scripts directory. Specific scripts and datasets for the various assembly stages are given in directories listed in this repository
