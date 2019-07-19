@@ -1,0 +1,67 @@
+lastz-distrib-1.04.00/src/lastz_32 \
+X_forzen.fa.masked    \
+bbu_ref_ASM312139v1_chrX.mfa  \
+ --notransition --step=50 --nogapped --format=maf \
+--rdotplot=forzenX.vs.buffalo.rdotplot
+
+lastz-distrib-1.04.00/src/lastz_32 \
+X_forzen.fa.masked    \
+cfa_ref_CanFam3.1_chrX.mfa  \
+ --notransition --step=50 --nogapped --format=maf \
+--rdotplot=forzenX.vs.dog.rdotplot
+
+lastz-distrib-1.04.00/src/lastz_32 \
+X_forzen.fa.masked    \
+hs_ref_GRCh38.p12_chrX.mfa \
+ --notransition --step=50 --nogapped --format=maf \
+--rdotplot=forzenX.vs.human.rdotplot
+
+lastz-distrib-1.04.00/src/lastz_32 \
+X_forzen.fa.masked    \
+eca_ref_EquCab3.0_chrX.mfa  \
+ --notransition --step=50 --nogapped --format=maf \
+--rdotplot=forzenX.vs.horse.rdotplot
+
+lastz-distrib-1.04.00/src/lastz_32 \
+X_forzen.fa.masked    \
+ssc_ref_Sscrofa11.1_chrX.mfa \
+ --notransition --step=50 --nogapped --format=maf \
+--rdotplot=forzenX.vs.pig.rdotplot
+
+lastz-distrib-1.04.00/src/lastz_32 \
+X_forzen.fa.masked    \
+oar_ref_Oar_v4.0_chrX.mfa   \
+ --notransition --step=50 --nogapped --format=maf \
+--rdotplot=forzenX.vs.sheep.rdotplot
+
+lastz-distrib-1.04.00/src/lastz_32 \
+X_forzen.fa.masked    \
+GoatX.fa.masked   \
+ --notransition --step=50 --nogapped --format=maf \
+--rdotplot=forzenX.vs.goat.rdotplot
+
+lastz-distrib-1.04.00/src/lastz_32 \
+Y_forzen.fa.masked    \
+hs_ref_GRCh38.p12_chrY.mfa  \
+ --notransition --step=50 --nogapped --format=maf \
+--rdotplot=forzenY.vs.humanY.rdotplot
+
+lastz-distrib-1.04.00/src/lastz_32 \
+Y_forzen.fa.masked    \
+bt_alt_Btau_5.0.1_chrY.mfa \
+ --notransition --step=20 --nogapped --format=maf \
+--rdotplot=forzenY.vs.btauY.rdotplot
+
+
+lastz-distrib-1.04.00/src/lastz_32 \
+Y_forzen.fa.masked    \
+ssc_ref_Sscrofa11.1_chrY.mfa \
+ --notransition --step=50 --nogapped --format=maf \
+--rdotplot=forzenY.vs.pigY.rdotplot
+
+lastz-distrib-1.04.00/src/lastz_32 \
+Y_forzen.fa.masked    \
+MH341179.1.fasta \
+ --notransition --step=50 --nogapped --format=maf \
+--rdotplot=forzenY.vs.horseY.rdotplot
+
