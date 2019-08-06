@@ -28,4 +28,4 @@ Here are the results by Derek Bickhart on QV estimation of the Angus and Brahman
 This folder details the comparison of SV between Brahman and Angus assemblies.
 
 ### selective sweep
-This folder details the selective sweep analysis after obtainined annotated SNPs called from GATK.
+This folder details the selective sweep analysis after obtaining SNPs called from GATK and annotated with Annovar.
