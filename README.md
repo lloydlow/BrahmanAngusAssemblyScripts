@@ -22,7 +22,7 @@ Here are the specific scripts and information used to put together the sex chrom
 This folder has the raw datasets of gap and ungapped contigs lengths as well as the R scrips used for analysis.
 
 ### QV estimation
-Here are the results by Derek Bickhart on QV estimation of the Angus and Brahman assemblies. The folder contains notes on software requirements and how to run the QV estimation
+Here are the results by Derek Bickhart on QV estimation of the Angus and Brahman assemblies. The folder contains notes on software requirements and how to run the QV estimation.
 
 ### SV analyses
 This folder details the comparison of SV between Brahman and Angus assemblies.
