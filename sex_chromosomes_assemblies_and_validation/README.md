@@ -6,7 +6,7 @@ Some custom scripts to analyse and validate cattle sex chromosome assembly
 ## Table of contents
 * Chromosome validation
 * PAR comparison
-* plots
+* Plots
 
 ### Chromosome validation
 
