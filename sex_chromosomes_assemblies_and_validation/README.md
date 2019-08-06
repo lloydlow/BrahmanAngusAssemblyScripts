@@ -1,4 +1,5 @@
-# sex_chromosomes_assemblies_and_validation
+# Sex chromosomes assemblies and validation
+---
 
 Some custom scripts to analyse and validate cattle sex chromosome assembly
 
