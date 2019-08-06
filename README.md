@@ -7,6 +7,7 @@ All scripts are given in the scripts directory. Specific scripts and datasets fo
 * sex_chromosomes_assemblies_and_validation
 * comparison_of_gaps
 * QV_estimation
+* SV_analyses
 
 Here is a brief description of the contents of each directory.
 
@@ -21,3 +22,6 @@ This folder has the raw datasets of gap and ungapped contigs lengths as well as 
 
 ### QV estimation
 Here are the results by Derek Bickhart on QV estimation of the Angus and Brahman assemblies. The folder contains notes on software requirements and how to run the QV estimation
+
+### SV analyses
+This folder details the comparison of SV between Brahman and Angus assemblies.
