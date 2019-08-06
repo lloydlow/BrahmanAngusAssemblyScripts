@@ -8,6 +8,7 @@ All scripts are given in the scripts directory. Specific scripts and datasets fo
 * comparison_of_gaps
 * QV_estimation
 * SV_analyses
+* selective_sweep
 
 Here is a brief description of the contents of each directory.
 
@@ -25,3 +26,6 @@ Here are the results by Derek Bickhart on QV estimation of the Angus and Brahman
 
 ### SV analyses
 This folder details the comparison of SV between Brahman and Angus assemblies.
+
+### selective sweep
+This folder details the selective sweep analysis after obtainined annotated SNPs called from GATK.
