@@ -1,0 +1,1 @@
+/Users/lloyd/Documents/lloyd_2017/Research/Brahman_Angus/brahman_angus_cov_check_FADS2P1.R
