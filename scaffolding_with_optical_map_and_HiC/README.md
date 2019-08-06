@@ -17,4 +17,11 @@ The methodology of how the scaffolds were built using optical map has been suffi
 * brahman_angus_bionano_order_scaffold3.R
 
 ## Hi-C-based scaffolding
+Three different scaffolders, 3D-DNA, Proximo (Phase Genomics) and SALSA2 were evaluated for building scaffolds and the input for scaffolding was PacBio-based contigs. Detail parameters used in each scaffolding programs were given in the Supplementary Information. The following scripts describe how the Hi-C scaffolds were ordered.
+
+* brahman_angus_align_orderSNP.R
+* brahman_angus_order_scaffold.R
+* brahman_angus_order_scaffold2.R
+* brahman_angus_order_scaffold2b.R
+* brahman_angus_order_scaffold3.R
 
