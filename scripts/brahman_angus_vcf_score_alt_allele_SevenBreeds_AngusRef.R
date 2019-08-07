@@ -1,0 +1,1 @@
+/Users/lloyd/Documents/lloyd_2017/Research/Brahman_Angus/brahman_angus_vcf_score_alt_allele_SevenBreeds_AngusRef.R
