@@ -9,6 +9,7 @@ All scripts are given in the scripts directory. Specific scripts and datasets fo
 * QV_estimation
 * SV_analyses
 * selective_sweep
+* phasing_transcripts
 
 Here is a brief description of the contents of each directory.
 
@@ -29,3 +30,6 @@ This folder details the comparison of SV between Brahman and Angus assemblies.
 
 ### selective sweep
 This folder details the selective sweep analysis after obtaining SNPs called from GATK and annotated with Annovar.
+
+### phasing transcripts
+The phasing of transcripts using isoseq3 and IsoPhase is described in this folder.
